@@ -1,0 +1,6 @@
+baseURL = "https://gogocurtain-bomosafive.vercel.app"
+languageCode = "en-us"
+title = "Ourdoor Curtains Modern"
+theme = "hugo-theme-minos"
+
+
